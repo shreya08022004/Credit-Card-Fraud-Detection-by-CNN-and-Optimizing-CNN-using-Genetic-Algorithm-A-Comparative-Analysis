@@ -24,4 +24,4 @@ Credit Card Fraudulent Transaction detection plays a crucial role in the financi
 The Genetic Algorithm model works well and faster using GPU.
 
 # How to Change the Runtime Environment to GPU
-Go to Runtime ---> Click on Change Runtime ---> Select the GPU option ---> Save the changes
+Go to **Runtime** ---> Click on **Change Runtime** ---> Select the **T4 GPU** option ---> Save the changes
